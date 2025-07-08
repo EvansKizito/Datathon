@@ -29,6 +29,4 @@ Datathon 2025 mengundang tim mahasiswa dan profesional data untuk:
 
 > 👉 **Tema inti**: Bagaimana Anda mengolah data menjadi **wawasan bermakna** dan **solusi actionable** yang dapat diimplementasikan oleh pemangku kepentingan bisnis.
 
----
-
-_Selamat bersaing & semoga sukses!_  
+--- 
