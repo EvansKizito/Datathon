@@ -60,3 +60,7 @@
 | **Chain Ladder**                   | Proyeksi ultimate reserve berdasarkan faktor development segitiga klaim kumulatif.         |
 | **Bornhuetter–Ferguson**           | Kombinasi expected loss ratio & development pattern untuk estimasi reserve yang stabil.    |
 | **CRISP-DM**                       | Kerangka sistematis: dari business understanding hingga deployment insight.               |
+
+### Pembaharuan Repository
+- **double_counting_isolation.ipynb** – Notebook ringkas untuk mendeteksi double counting dengan Isolation Forest dan membandingkan hasil Chain Ladder serta Bornhuetter–Ferguson sebelum dan sesudah pembersihan data.
+- **ngetestdoang.ipynb** – Versi eksplorasi lengkap. Menambahkan normalisasi data, skenario pembobotan anomali, serta evaluasi MAPE, RMSE, MARE, dan rasio over/under reserving.
